@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="add_stock_without_network">Stocks cannot be added without a network connection</string>
+    <string name="no_network">No Network Connection</string>
+    <string name="stock_sel">Stock Selection</string>
+    <string name="stock_sel_msg">Please enter a Stock Symbol:</string>
+    <string name="make_sel">Make a selection</string>
+
+    <string name="map_sym">symbol</string>
+    <string name="map_cname">companyName</string>
+    <string name="map_price">latestPrice</string>
+    <string name="map_ch">change</string>
+    <string name="map_chPer">changePercent</string>
+</resources>
